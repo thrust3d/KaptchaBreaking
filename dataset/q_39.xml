@@ -1,0 +1,26 @@
+<annotation>
+	<folder>q</folder>
+	<filename>q_39.jpg</filename>
+	<path>/home/atom/PycharmProjects/ai/captcha_data2/q/q_39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>50</width>
+		<height>50</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>q</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>10</ymin>
+			<xmax>43</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>
